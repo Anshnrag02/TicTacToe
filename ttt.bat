@@ -1,6 +1,6 @@
 @echo off
 
-title Banzai's Tic Tac Toe
+title Tic Tac Toe
 
 title Noughts and Crosses
 
